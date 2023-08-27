@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9edde39b-5436-42fe-b386-34a014641e44/deploy-status)](https://app.netlify.com/sites/mellow-sprinkles-fc02f5/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/274c803f-027e-4178-827c-a1aeee258393/deploy-status)](https://app.netlify.com/sites/soft-cuchufli-0ed60d/deploys)
 
 # JavaScript 🎲Roll
 
